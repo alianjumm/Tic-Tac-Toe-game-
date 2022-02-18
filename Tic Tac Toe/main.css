@@ -1,0 +1,11 @@
+table {
+    border: 10px solid grey;
+    position: absolute center 
+}
+
+tr {
+    border: 5px solid aquamarine;
+}
+td {
+    border: 5px solid yellowgreen;
+}
